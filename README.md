@@ -10,7 +10,7 @@
 
   [<img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn" style="text-decoration:none; border:none;"/>](https://www.linkedin.com/in/dmitry-kazenin)
   [<img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" style="text-decoration:none; border:none;"/>](https://x.com/aristockij)
-  [<img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Follow on telegram" style="text-decoration:none; border:none;"/>](https://t.me/Kazenin_dev)
+  [<img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=flat-square&logo=telegram&logoColor=white&height=28" alt="Follow on telegram" style="text-decoration:none; border:none;"/>](https://t.me/Kazenin_dev)
 
 
 ---
