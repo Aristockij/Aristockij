@@ -9,10 +9,10 @@
 
 <div id="badges">
   <a href="www.linkedin.com/in/dmitry-kazenin">
-    ![Follow on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+    <img src="![Follow on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"/>  
   </a> 
   <a href="https://x.com/aristockij">
-    ![Follow on X](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)
+    <img src="![Follow on X](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)"/>
   </a>
 </div>
 
