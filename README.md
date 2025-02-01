@@ -9,16 +9,27 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dmitry-kazenin" style="display: inline-block;">
+  <a href="https://www.linkedin.com/in/dmitry-kazenin" >
     <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn"/>
   </a>
-  <a href="https://x.com/aristockij" style="display: inline-block;">
+  <a href="https://x.com/aristockij" >
     <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X"/>
   </a>
-  <a href="https://t.me/Kazenin_dev" style="display: inline-block;">
+  <a href="https://t.me/Kazenin_dev" >
     <img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Follow on Telegram"/>
   </a>
 </p>
+
+
+<div style="text-align: center;">
+ 
+  [<img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn" style="text-decoration:none; border:none; height:28px; margin: 5px;"/>](https://www.linkedin.com/in/dmitry-kazenin)
+
+  [<img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" style="text-decoration:none; border:none; height:28px; margin: 5px;"/>](https://x.com/aristockij)
+
+  [<img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Follow on Telegram" style="text-decoration:none; border:none; height:28px; margin: 5px;"/>](https://t.me/Kazenin_dev)
+
+</div>
 
 ---
 
