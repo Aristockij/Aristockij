@@ -8,13 +8,13 @@
 ---
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/dmitry-kazenin">
+  <a href="www.linkedin.com/in/dmitry-kazenin" text-decoration="none">
     <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
   </a> 
-  <a href="https://x.com/aristockij">
+  <a href="https://x.com/aristockij" text-decoration="none">
     <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://t.me/Kazenin_dev">
+  <a href="https://t.me/Kazenin_dev" text-decoration="none">
     <img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
   </a>
 </div>
