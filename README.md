@@ -45,7 +45,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 [![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristockij&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=aristockij&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=false" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=aristockij&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=false&hide_border=false" />
 
 <!--
 **Aristockij/Aristockij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
