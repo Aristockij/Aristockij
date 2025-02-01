@@ -21,7 +21,7 @@
 </p>
 
 
-<div style="text-align: center;">
+<p style="text-align: center;">
  
   [<img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn" style="text-decoration:none; border:none; height:28px; margin: 5px;"/>](https://www.linkedin.com/in/dmitry-kazenin)
 
@@ -29,15 +29,9 @@
 
   [<img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Follow on Telegram" style="text-decoration: none; border:none; height:28px; margin: 5px;"/>](https://t.me/Kazenin_dev)
 
-</div>
+</p>
 
-<div style="text-align: center;">
- 
-  ![(https://www.linkedin.com/in/dmitry-kazenin)](https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&height="28")
-  ![(https://x.com/aristockij)](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white&height="28")
-  ![(https://t.me/Kazenin_dev)](https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=flat-square&logo=telegram&logoColor=white&height="28")
-   
-</div>
+
 
 ---
 
