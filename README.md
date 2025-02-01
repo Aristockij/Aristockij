@@ -14,6 +14,9 @@
   <a href="https://x.com/aristockij">
     <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
+  <a href="https://t.me/Kazenin_dev">
+    <img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+  </a>
 </div>
 
 ---
