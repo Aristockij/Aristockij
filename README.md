@@ -20,7 +20,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div align="center">
+<p align="center">
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -34,7 +34,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%ffffff.svg?style=for-the-badge&logo=githubactions&logoColor=#d06398)
-<div>
+<p>
 
 
 
