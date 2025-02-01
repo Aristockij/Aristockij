@@ -3,7 +3,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h3 align="center">Я Frontend разработчик</h3>
+<p>
+  Я фронтенд разработчик с опытом работы более 3х лет. За это время я приобрел навыки в создании современных, адаптивных, и удобных в использовании веб-приложений.  </br>
+
+  Интересуюсь будущим веб-разработки. Убежден, что современный маркетинг движется в сторону технологий AR/VR, и сайты на основе Three.js станут особенно востребованными. Также изучаю разработку мини-приложений для Telegram с использованием React.
+</p>
 
 ---
 
@@ -13,8 +17,6 @@
   <a href="https://x.com/aristockij"><img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" style="height:28px; margin: 5px;"></a>
   <a href="https://t.me/Kazenin_dev"><img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Follow on Telegram" style="height:28px; margin: 5px;"></a>
 </p>
-
-
 
 
 ---
