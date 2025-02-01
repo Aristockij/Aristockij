@@ -7,9 +7,9 @@
 
 ---
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="www.linkedin.com/in/dmitry-kazenin">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
   </a> 
   <a href="https://x.com/aristockij">
     <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white"/>
