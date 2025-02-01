@@ -3,20 +3,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h3 align="center">I am a Frontend Developer</h3>
+<h3 align="center">Я Frontend разработчик</h3>
 
 ---
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/dmitry-kazenin" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
-  </a> 
-  <a href="https://x.com/aristockij" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://t.me/Kazenin_dev" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
-  </a>
+  [<img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn" style="text-decoration:none; border:none;"/>](https://www.linkedin.com/in/dmitry-kazenin)
+  [<img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" style="text-decoration:none; border:none;"/>](https://x.com/aristockij)
+  [<img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Follow on telegram" style="text-decoration:none; border:none;"/>](https://t.me/Kazenin_dev)
 </div>
 
 ---
@@ -38,8 +32,20 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%ffffff.svg?style=for-the-badge&logo=githubactions&logoColor=#d06398)
 
+---
+
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; Я в основном работаю с JS / TS.
+- 💬 &nbsp; Можете спросить меня о чем-нибудь здесь [telegram](https://t.me/Kazenin_dev)! И я постараюсь помочь.
 
 
+### My Absolute Favorites:
+
+- 💻 &nbsp; В свободное время я делаю игры с помощью PIXI js.
+- 📰 &nbsp; Читаю, пишу & стараюсь следить за тех. новостями.
+
+---
 
 <p align="center">
   
