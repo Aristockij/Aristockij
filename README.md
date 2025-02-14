@@ -65,4 +65,7 @@
 [![](https://raw.githubusercontent.com/Aristockij/Aristockij/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Aristockij/Aristockij/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username={Aristockij}&theme={github_dark})]
+
+
 </p>
